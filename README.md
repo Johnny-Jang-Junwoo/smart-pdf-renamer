@@ -36,8 +36,8 @@ python smart_rename_papers_doi.py "/path/to/folder" --recursive --email your.nam
 
 ## Windows examples
 ```powershell
-python smart_rename_papers_doi.py "C:\Users\johnn\Documents\Papers" --recursive --dry-run
-python smart_rename_papers_doi.py "C:\Users\johnn\Documents\Papers" --recursive --email johnny@purdue.edu
+python smart_rename_papers_doi.py "C:\Users\#####\Documents\Papers" --recursive --dry-run
+python smart_rename_papers_doi.py "C:\Users\#####\Documents\Papers" --recursive --email #####@####.###
 ```
 
 ## macOS/Linux examples
@@ -54,5 +54,5 @@ python smart_rename_papers_doi.py "/Users/you/Documents/Papers" --recursive --em
 
 ---
 
-**License:** MIT  
+**License:** None
 **Author:** Johnny Jang
